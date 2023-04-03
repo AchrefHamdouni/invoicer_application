@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    background-color: rgba(238, 218, 218, 0.58);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+input,textarea{
+background-color: rgba(238, 218, 218, 0.58);
+padding: 0.6 rem;
+border-radius: 0.4 rem;
+margin-bottom: 2 rem;
+  }
+.footer li {
+    margin: 0.5 rem 0.2 rem;
+    
+}
+
+/* .footer {
+  position: flex;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+} */
+button {
+    user-select: none;
+}
+
+.tableau {
+  position: relative;
+  height: 800 px;
+  width: 100%;
+
+}
